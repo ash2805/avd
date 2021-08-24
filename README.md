@@ -29,8 +29,8 @@ RSI:Apps Stakeholders,
 
 The RSI:Apps ORD cluster will undergo a maintenance to perform Registry Certificate renewal process. This is a standard operations procedure and will be performed on a ORD registry route.
 
-CHG: CHG0128884 
-Date: 2021-08-26 
+CHG: CHG0128884
+Date: 2021-08-26
 Time: 09:00:00 CT
 
 Impact is expected to be minimal:
